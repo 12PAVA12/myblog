@@ -63,4 +63,9 @@ h1 {
 h2 {
     font-family: cursive;
 }
+.profile {
+    width: 190px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
 
